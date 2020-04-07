@@ -1,4 +1,4 @@
-# :space_invader: Todo App
+Todo App
 
 <p>
   <a href="https://travis-ci.org/react-native-community/react-native-template-typescript">
