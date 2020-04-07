@@ -26,5 +26,5 @@
 
 ## :arrow_forward: Usage
 
-yarn install
-react-native run-android
+- yarn install
+- react-native run-android
