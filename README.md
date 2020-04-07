@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> React Native to manage todos with calendar.
+> TodoApp is a simple to-do list manager app built with react native.
 
 ## :star: Features
 
