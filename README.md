@@ -17,14 +17,19 @@
 
 > TodoApp is a simple to-do list manager app built with react native.
 
-## :star: Features
+## Features
 
 - Add Todos
 - Delete Todos
 - Complete/Incomple Todos
 - Calendar
 
-## :arrow_forward: Usage
+## Usage
 
 - yarn install
 - react-native run-android
+
+## Screenshots:
+
+![Alt text](https://raw.githubusercontent.com/Timc3209/TodoApp/master/example/todoapp.png)
+![Alt text](https://raw.githubusercontent.com/Timc3209/TodoApp/master/example/todoapp-calendar.png)
